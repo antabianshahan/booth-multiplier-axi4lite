@@ -1,0 +1,24 @@
+# Simulation
+work/
+*.wlf
+transcript
+*.vcd
+sim
+*.vvp
+
+# Quartus / Platform Designer generated output
+db/
+incremental_db/
+output_files/
+greybox_tmp/
+lab1_system/
+.qsys_edit/
+*.qws
+*.sopcinfo
+hps_isw_handoff/
+
+# HPS software build output
+*.o
+*.axf
+*.srec
+*.objdump
